@@ -1,0 +1,37 @@
+* {
+  background-color: azure;
+}
+.ip-j1 {
+  background-color: rgb(239, 217, 217);
+  height: 250px;
+  width: fit-content;
+  border: 2px red dotted;
+  margin: auto;
+  padding: 10px;
+}
+.fun {
+  font-size: 50px;
+  color: rgb(155 22 149);
+}
+#opera {
+  padding-left: 10px;
+}
+.calc-01 {
+  transform: translateX(270%);
+}
+#result {
+  transform: translateX(108%);
+}
+#result div {
+  width: 100%;
+}
+.show {
+  margin-top: 200px;
+  font-weight: 900;
+  font-size: 50px;
+  font-family: "Madimi One", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
